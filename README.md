@@ -11,3 +11,5 @@ Project 3) MakeChange: Asks user for the cost of an item. Asks user for the amou
 Project 4) Alphabet: Prints out the alphabet and labels if the letter is a vowel or consonant. (Y is considered a vowel)
 
 Project 5) Factorial: Asks the user for a number and then prints out the factorial of that number. 
+
+Project 6) Temperature: Asks the user to enter in a temperature in Centigrade. Coverts and prints the temperature to Fahrenheit. Once the user quits the program it prints out an average of Centigrade temperatures and an average of Fahrenheit temperatures.
