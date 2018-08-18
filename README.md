@@ -13,3 +13,7 @@ Project 4) Alphabet: Prints out the alphabet and labels if the letter is a vowel
 Project 5) Factorial: Asks the user for a number and then prints out the factorial of that number. 
 
 Project 6) Temperature: Asks the user to enter in a temperature in Centigrade. Coverts and prints the temperature to Fahrenheit. Once the user quits the program it prints out an average of Centigrade temperatures and an average of Fahrenheit temperatures.
+
+Project 7) Breaking It Down: Asks the user for what type of arthimetic they want to perform. Then asks the user for the two operands. Prints out the computed arthimetic. 
+
+Project 8) Newton_Method: Asks the user for a number and then guess the square root with the Newton Method. Prints out the Newton method guess and the actual square root of the number. 
